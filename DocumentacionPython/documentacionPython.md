@@ -4,4 +4,5 @@ Nos sirve para instalar algunas herramientas incluyendo tambien la version de py
 # Python
 - Python es un lenguaje interpetado, osea de tal forma en que escribamos nuestro codigo se va interpetando.
 - Con # se puede agregar comentarios en python
+- Variables: Para la declaracion de asignacion de una variable se tiene 3 elementos principales: El identificador, el operador de asignacion y el dato o valor
 
