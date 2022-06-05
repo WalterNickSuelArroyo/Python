@@ -8,3 +8,5 @@ Nos sirve para instalar algunas herramientas incluyendo tambien la version de py
 - Un literal es el valor que se le puede asignar a las variables. Por ejemplo z = 10 (el valor 10 es el literal)
 - Para conocer la direccion de memoria de los literales tenemos la funcion id:   id(x)   , para imprimir esto es necesario tambien usar la funcion print:   print(id(x))
 - La memoria RAM que es donde se almacena las variables es una memoria volatil por lo que cada vez que volvamos a ejecutar la direccion de memoria de las variables cambia
+- Recordar que python es sensible a mayusculas y minusculas
+
